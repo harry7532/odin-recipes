@@ -1,6 +1,5 @@
 
 This is a basic recipe website project, designed to introduce  the fundamental concepts of HTML. This project focuses on building a simple yet effective recipe website by employing key HTML elements and principles.
-
 Key Concepts Covered:
 1. HTML Boilerplate:
 2. Ordered and Unordered Lists:
